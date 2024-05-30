@@ -19,7 +19,6 @@
 
 - [ESPN NFL Lite](http://www.espn.com/nfl/lite/scoreboard) - Text-only NFL scoreboard from ESPN
 - [ESPN NBA Lite](http://www.espn.com/nba/lite/scoreboard) - Text-only NBA scoreboard from ESPN
-- [ESPN NCB Lite](http://www.espn.com/ncb/lite/scoreboard) - Text-only NCB scoreboard from ESPN
 - [PlainTextSports](https://plaintextsports.com) - Sports news and results in plain text format
 
 ## News aggregators
@@ -37,7 +36,6 @@
 - [mbasic Facebook](https://mbasic.facebook.com/) - Lightweight version of Facebook
 - [Phil Gyford's daily edition of The Guardian](https://www.gyford.com/phil/writing/2018/11/24/guardian-daily/) - Daily email with The Guardian's content
 - [Thomson Reuters Foundation Trust](https://www.trust.org/) - News and analysis from the Thomson Reuters Foundation
-- [Context News](https://www.context.news) - News summaries with added context
 
 ## Tools for Converting Webpages to Text
 
